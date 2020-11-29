@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'ICEbotWA☄'; 
+const instagram = 'https://instagram.com/ff.icezero?igshid=6agn7fgqzwbr'; 
+const telegram = 'https://t.me/icezeroo'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/channel/UCExnUOb1EVVyQ55QYIKUoZg';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
@@ -49,7 +49,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] Scan kode qr dengan whatsapp!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] Scan kode qr dengan whatsapp ya mek:v!`);
 });
 
 conn.on('credentials-updated', () =>
